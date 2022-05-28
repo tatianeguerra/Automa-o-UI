@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tatianeguerra/Automa-o-UI#readme",
   "devDependencies": {
     "cypress": "^9.7.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
   }
 }
