@@ -10,7 +10,7 @@ describe('Funcinalidade Pagina de produto', () => {
           it('Deve adicionar um produto ao carinho', () => {
             cy.get ('[class="product-block grid"]')
             //firs()
-            //.last()
+            //.last() 
             //.eq(6)
             .contains('Argus All-Weather Tank')
             .click()
