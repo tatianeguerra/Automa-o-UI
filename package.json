@@ -21,6 +21,7 @@
     "cypress": "^9.7.0"
   },
   "dependencies": {
-    "faker": "^6.6.6"
+    "faker": "^5.5.3",
+    "faker-br": "^0.4.1"
   }
 }
